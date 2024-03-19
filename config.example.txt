@@ -1,0 +1,11 @@
+IMAGE_FOLDER=./downloaded_images/
+
+DATABASE_NAME=
+
+HOST=
+
+USERNAME=
+
+PASSWORD=
+
+CRAWLERA_APIKEY=

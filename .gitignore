@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 
 # customized
-crawldata/config.txt
+config.txt
+downloaded_images/
